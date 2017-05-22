@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DataSharing</string>
+    <string name="chooser_text">Choose among them</string>
+
+</resources>
